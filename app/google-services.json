@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98099029965",
+    "firebase_url": "https://remoteraspbi.firebaseio.com",
+    "project_id": "remoteraspbi",
+    "storage_bucket": "remoteraspbi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98099029965:android:cf0b778c311f59f1490684",
+        "android_client_info": {
+          "package_name": "com.example.remoteraspbi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98099029965-cjfkdukglef66km9jq9b6678a9b4ndse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remoteraspbi",
+            "certificate_hash": "f577974ac2d86f96d2e84a7b19c317ea37a6a207"
+          }
+        },
+        {
+          "client_id": "98099029965-mmassc3ga5aspup7p44mrb62pa31tg4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB42W6IEW13ZvygbPTZvI7ZGsqbhwh6ceg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98099029965-mmassc3ga5aspup7p44mrb62pa31tg4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

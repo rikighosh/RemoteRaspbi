@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Data_Activity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    >
+
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/linechart1"
+        android:layout_width="442dp"
+        android:layout_height="168dp"
+        android:layout_marginTop="10dp"/>
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/linechart2"
+        android:layout_width="442dp"
+        android:layout_height="168dp"
+        android:layout_marginTop="10dp">
+
+
+    </com.github.mikephil.charting.charts.LineChart>
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/linechart3"
+        android:layout_width="442dp"
+        android:layout_height="168dp"
+        android:layout_marginTop="10dp">
+
+
+    </com.github.mikephil.charting.charts.LineChart>
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/linechart4"
+        android:layout_width="442dp"
+        android:layout_height="168dp"
+        android:layout_marginTop="10dp">
+
+
+    </com.github.mikephil.charting.charts.LineChart>
+
+
+</LinearLayout>
+    </ScrollView>
